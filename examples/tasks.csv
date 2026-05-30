@@ -1,0 +1,5 @@
+task,team,minutes,frequency,automation_hint
+Invoice check,Finance,30,daily,Compare spreadsheet rows and flag mismatches
+Daily ticket summary,Operations,25,daily,Summarize new support tickets by urgency
+Lead cleanup,Sales,45,weekly,Normalize CRM fields and remove duplicates
+Weekly KPI report,Growth,60,weekly,Collect metrics and draft a Markdown summary
