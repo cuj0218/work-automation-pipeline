@@ -20,7 +20,7 @@ GPT와 Codex를 활용해 반복적인 운영 업무를 자동화하기 위한 �
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_NAME/work-automation-pipeline.git
+git clone https://github.com/cuj0218/work-automation-pipeline.git
 cd work-automation-pipeline
 python3 -m venv .venv
 . .venv/bin/activate
